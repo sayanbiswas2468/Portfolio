@@ -16,14 +16,15 @@ import {
     figma,
     docker,
     cpp,
+    asianaTimes,
     wordpress,
     SchoolHues,
-    asianaTimes,
     threejs,
     foodKart,
     redmi,
     getIt
 } from "../assets";
+
 
 export const navLinks = [
     {
