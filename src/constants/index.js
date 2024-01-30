@@ -18,7 +18,7 @@ import {
     cpp,
     wordpress,
     SchoolHues,
-    AsianaTimes,
+    asianaTimes,
     threejs,
     foodKart,
     redmi,
@@ -131,7 +131,7 @@ const experiences = [
     {
         title: "Video Editor",
         company_name: "Asiana Times",
-        icon: AsianaTimes,
+        icon: asianaTimes,
         iconBg: "#E6DEDD",
         date: "July 2022 - Octuber 2022",
         points: [
