@@ -22,10 +22,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import cpp from './tech/cpp.png'
 import wordpress from './tech/wordpress.png'
-
 import AsianaTimes from './company/AsianaTimes.jpeg'
 import SchoolHues from './company/SchoolHues.jpeg'
-
 import foodKart from './current/foodKart.png'
 import getIt from './current/getIt.png'
 import redmi from './current/redmi.png'
