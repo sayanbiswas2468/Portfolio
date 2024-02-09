@@ -6,7 +6,6 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -22,10 +21,10 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import cpp from './tech/cpp.png'
 import wordpress from './tech/wordpress.png'
-import SchoolHues from './company/SchoolHues.jpeg'
+import SchoolHues from './company/SchoolHues.png'
 import getIt from './current/getIt.png'
 import redmi from './current/redmi.png'
-import asianaTimes from './company/asianaTimes.jpeg'
+import asianaTimes from './company/asianaTimes.png'
 
 import threads from './current/threads.png'
 
