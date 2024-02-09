@@ -23,10 +23,11 @@ import threejs from "./tech/threejs.svg";
 import cpp from './tech/cpp.png'
 import wordpress from './tech/wordpress.png'
 import SchoolHues from './company/SchoolHues.jpeg'
-import foodKart from './current/foodKart.png'
 import getIt from './current/getIt.png'
 import redmi from './current/redmi.png'
 import asianaTimes from './company/asianaTimes.jpeg'
+
+import threads from './current/threads.png'
 
 export {
   logo,
@@ -54,7 +55,7 @@ export {
   cpp,
   SchoolHues,
   asianaTimes,
-  foodKart,
   getIt,
-  redmi
+  redmi,
+  threads
 };

@@ -20,9 +20,9 @@ import {
     wordpress,
     SchoolHues,
     threejs,
-    foodKart,
     redmi,
-    getIt
+    getIt,
+    threads
 } from "../assets";
 
 
@@ -199,6 +199,27 @@ const testimonials = [
 
 const projects = [
     {
+        name: "Threads ",
+        description:
+            "Threads web app for focused messaging with customizable notifications and privacy features. Ideal for meaningful connections and community building.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "NEXT.js",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwindcss",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: threads,
+        source_code_link: "https://threads-app-jet-one.vercel.app/",
+    },
+    {
         name: "Mi Store",
         description:
             "This React-based clone of Mi Store replicates the functionalities and features of the original Mi Store, offering a user-friendly interface and a seamless shopping experience.",
@@ -222,7 +243,7 @@ const projects = [
     {
         name: "Get It",
         description:
-            "An all-encompassing shopping platform that enables users to purchase a diverse range of items, including clothing, electronics, furniture, and various other products, providing a one-stop destination for all their shopping needs.",
+            "Explore a diverse range of products from clothing to electronics on our one-stop shopping platform. Convenient, secure, and satisfying.",
         tags: [
             {
                 name: "wordpress",
@@ -239,27 +260,6 @@ const projects = [
         ],
         image: getIt,
         source_code_link: "https://sayanbiswas0408.github.io/Ecommerce-Website/",
-    },
-    {
-        name: "Food Kart",
-        description:
-            "A comprehensive food delivery platform that empowers users to order a wide array of culinary delights, ranging from diverse cuisines to delectable dishes, ensuring a convenient and satisfying solution for all their food cravings.",
-        tags: [
-            {
-                name: "react",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "html",
-                color: "green-text-gradient",
-            },
-            {
-                name: "css",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: foodKart,
-        source_code_link: "https://sayanbiswas0408.github.io/Delivery-Websites/",
     },
 ];
 
